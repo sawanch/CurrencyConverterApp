@@ -3,8 +3,8 @@ from random import randint
 from datetime import datetime, timedelta
 
 # Set your desired start and end dates in yyyy-mm-dd format and the maximum number of commits per day
-start_date_str = "2021-05-22"
-end_date_str = "2021-10-26"
+start_date_str = "2021-01-22"
+end_date_str = "2021-3-26"
 max_commits_per_day = 3
 
 # Convert start and end date strings to datetime objects
@@ -22,6 +22,6 @@ while current_date < end_date:
         os.system('git add .')
         os.system('git commit --date="{}" -m "commit"'.format(current_day_str))
 
-    current_date += timedelta(days=6)
+    current_date += timedelta(days=3)
 
 os.system('git push -u origin main ')
