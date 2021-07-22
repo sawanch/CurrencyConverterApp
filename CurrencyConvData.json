@@ -1,0 +1,11 @@
+{
+  "infoItemFetcher": [
+    {
+      "fileVersion": "001",
+      "currencyToken": "16857b1047e32f5be00d2e1b0d67c86a",
+      "rateCheckTimeLimit": 120000,
+      "nameFetchTimeLimit": 120000,
+      "dataDownloadInterval": 120000
+    }
+  ]
+}
