@@ -3,9 +3,9 @@
     {
       "fileVersion": "001",
       "currencyToken": "e8eadc27b8c28b993d962ae6c59f380a",
-      "rateCheckTimeLimit": 120000,
-      "nameFetchTimeLimit": 120000,
-      "dataDownloadInterval": 120000
+      "rateCheckTimeLimit": 86400000,
+      "nameFetchTimeLimit": 166400000,
+      "dataDownloadInterval": 1200000
     }
   ]
 }
