@@ -1,4 +1,17 @@
-# CurrencyConverterApp
+# Currency Converter Android App
+
+This is a simple Currency Converter Android App that allows users to convert between different currencies. It provides real-time exchange rate data and offers a user-friendly interface for quick and easy currency conversion.
+
+## Features
+
+- Convert between various currencies.
+- Real-time exchange rate updates.
+- User-friendly and intuitive interface.
+- Supports offline mode with cached exchange rates.
+- Easily switch between different currencies.
+- Minimal and lightweight design for a smooth user experience.
+
+## Screenshots
 
 ![alt text](https://github.com/sawanch/CurrencyConverterApp/blob/main/CC-1.png?raw=true)
 ***
